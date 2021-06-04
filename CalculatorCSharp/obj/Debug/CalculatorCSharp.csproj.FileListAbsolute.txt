@@ -1,0 +1,10 @@
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe.config
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.exe
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\CalculatorCSharp.pdb
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csprojAssemblyReference.cache
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.Properties.Resources.resources
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.GenerateResource.cache
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.exe
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.pdb
+C:\Users\Steph\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\CalculatorCSharp.calcForm.resources
